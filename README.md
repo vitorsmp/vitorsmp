@@ -1,10 +1,12 @@
-### Olá! Meu nome é Vitor. 👍
+### Olá! 👍
 
 ##
 
 
- Aqui guardarei parte dos meus estudos e projetos.
+ - Aqui guardarei parte dos meus estudos e projetos.
+ - Atualmente estou estudando programação.
 
+[![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorsmp&show_icons=true&theme=dark&count_private=true)](https://github.com/vitorsmp)
 
 ##
 
