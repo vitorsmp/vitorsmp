@@ -5,8 +5,6 @@
 
  - Aqui guardarei parte dos meus estudos e projetos.
 
-[![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorsmp&show_icons=true&theme=dark&count_private=true)](https://github.com/vitorsmp)
-
 ##
 
 
