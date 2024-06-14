@@ -3,7 +3,8 @@
 ##
 
 
- - Aqui guardarei parte dos meus estudos e projetos.
+ - Binary Exploitation
+ - Low level programming
 
 ##
 
