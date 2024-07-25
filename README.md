@@ -9,7 +9,7 @@ Sou o Vitor, um entusiasta de tecnologia. Atualmente, sou estudante de Ciência 
 
 #### Projetos destacados
 - [EasyCalc](https://github.com/vitorsmp/EasyCalc)
-Uma calculadora desktop simples desenvolvida em C++ para fins de aprendizado.
+  Uma calculadora desktop simples desenvolvida em C++ para fins de aprendizado.
 
 #### Tecnologias
 - C/C++
