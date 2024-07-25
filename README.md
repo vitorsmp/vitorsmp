@@ -10,7 +10,7 @@ Sou o Vitor, um entusiasta de tecnologia apaixonado. Atualmente, sou estudante d
 
 ## Projetos destacados
 ### [EasyCalc](https://github.com/vitorsmp/EasyCalc)
-Calculadora desktop simples desenvolvida em C++ para fins de aprendizado.
+Uma calculadora desktop simples desenvolvida em C++ para fins de aprendizado.
 
 ## Tecnologias
 - C/C++
@@ -19,9 +19,7 @@ Calculadora desktop simples desenvolvida em C++ para fins de aprendizado.
 - SQL
 - Git
 - Docker
-
-## Contribuições para a comunidade
-- 
+- Shell Script
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorsmp&show_icons=true&theme=radical)
